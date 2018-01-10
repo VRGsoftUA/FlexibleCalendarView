@@ -151,7 +151,6 @@ interface OnCalendarLongClickListener {
    interface OnCalendarClickListener {
     fun onCalendarDayClick(day: CalendarDay)
 }
-  ```
 
 that returns VrCalendarDay you click on
 
