@@ -15,8 +15,7 @@ allprojects {
 }
 
 dependencies {
-
-
+	implementation"com.github.VRGsoftUA:FlexibleCalendarView:1.0"
 }
 ```
 2. Include the FlexibleCalendarView widget in your layout.
